@@ -12,5 +12,6 @@ public class Lab1 {
             greeting = "Good Afternoon";
         }
         System.out.println(greeting + " " + name + ". How are you today?");
-    }
+
+     }
 }
